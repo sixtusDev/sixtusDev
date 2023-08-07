@@ -1,15 +1,10 @@
-![Sixtus Innocent - Quote I live by](banner.png)
+![image](https://github.com/sixtusDev/sixtusDev/assets/22226894/df07ef80-b0fc-4ab7-b063-99da5c92bc70)![Sixtus Innocent - Quote I live by](banner.png)
 
 <h2>Hi I'm Sixtus Innocent! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sixtusDev.sixtusDev)](https://github.com/sixtusDev) [![GitHub followers](https://img.shields.io/github/followers/sixtusDev.svg?style=social&label=Follow)](https://github.com/sixtusDev?tab=followers)
 
-<p>I am a Software Engineer and a Computer Science graduate with over three years of experience. I started my programming journey back then in 2016. I specialize in developing qualitative, scalable and maintanable web based applications. I do both frontend and backend portions of web applications but I specialize in frontend development. Finally I ♥️ coding 👨‍💻.</p>
-<p>As a problem solver, I like taking up task from my Lead Engineer that are challenging because it helps develop my problem solving and algorithmic skills. I am also a team player.</p>
-
-#### Visit my portfolio website and LinkedIn profile for more about me.
-
-<a href="https://sixtus.dev">Portfolio</a>&nbsp;<a href="https://linkedin.com/in/sixtus-innocent-6b3a17a2">LinkedIn</a>
+<p>Software Craftsman with experience in engineering, design, and architecture; Delivering innovative business solutions for optimal performance and scalabilit</p>
 
 <br />
 
