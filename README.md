@@ -4,7 +4,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sixtusDev.sixtusDev)](https://github.com/sixtusDev) [![GitHub followers](https://img.shields.io/github/followers/sixtusDev.svg?style=social&label=Follow)](https://github.com/sixtusDev?tab=followers)
 
-<p>Software Craftsman with experience in engineering, design, and architecture; Delivering innovative business solutions for optimal performance and scalabilit</p>
+<p>Software Craftsman with experience in engineering, design, and architecture; Delivering innovative business solutions for optimal performance and scalability</p>
 
 <br />
 
