@@ -2,9 +2,7 @@
 
 <h2>Hi I'm Sixtus Innocent! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sixtusDev.sixtusDev)](https://github.com/sixtusDev) [![GitHub followers](https://img.shields.io/github/followers/sixtusDev.svg?style=social&label=Follow)](https://github.com/sixtusDev?tab=followers)
-
-Software Craftsman with experience in engineering, design, and architecture; Delivering innovative business solutions for optimal performance and scalability
+Software Craftsman with experience in engineering, design, and architecture.
 
 <br />
 
